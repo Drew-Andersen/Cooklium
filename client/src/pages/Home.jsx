@@ -16,7 +16,7 @@ export default function Home() {
                 </a>
               </div>
               <h1>Cooklium</h1>
-              <div className="card">
+              <div className='counter mx-auto pt-3 rounded'>
                 <button onClick={() => setCount((count) => count + 1)}>
                   count is {count}
                 </button>

@@ -1,16 +1,3 @@
-# Cooklium
-
-<div align="center">
-
-  <!-- Add badges using the following format: -->
-  <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Forks](https://img.shields.io/github/forks/Drew-Andersen/Cooklium.svg?style=plastic&logo=appveyor)](https://github.com/https://github.com/Drew-Andersen/Cooklium/network/members)
-[![Stargazers](https://img.shields.io/github/stars/Drew-Andersen/Cooklium.svg?style=plastic&logo=appveyor)](https://github.com/Drew-Andersen/Cooklium/stargazers)
-
-</div>
-
 <!-- PROJECT LOGO -->
 <div align="center">
 
@@ -23,6 +10,17 @@
     <a href="https://github.com/Drew-Andersen/Cooklium"><strong>Explore the docs »</strong></a>
     <br />
   </p>
+</div>
+
+<div align="center">
+
+  <!-- Add badges using the following format: -->
+  <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Forks](https://img.shields.io/github/forks/Drew-Andersen/Cooklium.svg?style=plastic&logo=appveyor)](https://github.com/https://github.com/Drew-Andersen/Cooklium/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Drew-Andersen/Cooklium.svg?style=plastic&logo=appveyor)](https://github.com/Drew-Andersen/Cooklium/stargazers)
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -105,22 +103,21 @@ Cooklium is ideal for busy home cooks, food enthusiasts, and anyone looking to e
 #### MVP
 
 - [ ] Front End
+  - [ ] Routing
+  - [ ] User Auth
+  - [ ] User Profile Page
+  - [ ] Landing Page
+  - [ ] Error Page
+  - [ ] Login Form
+  - [ ] Register Form
+  - [ ] Search
 
-  - [] Routing
-  - [] Map (Markers, Search area)
-  - [] User Auth
-  - [] User Profile Page
-  - [] Landing Page
-  - [] Error Page
-  - [] Login Form
-  - [] Sign Up Form
-  - [] Search
-
-- [] Back End
-  - [] Typedefs
-  - [] Resolvers
-  - [] Seeds
-  - [] User Auth
+- [ ] Back End
+  - [ ] Controllers
+  - [ ] Models
+  - [ ] Routes
+  - [ ] Seeds
+  - [ ] User Auth
 
 #### Future Development
 
