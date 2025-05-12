@@ -108,8 +108,8 @@ Cooklium is ideal for busy home cooks, food enthusiasts, and anyone looking to e
   - [ ] User Profile Page
   - [ ] Landing Page
   - [ ] Error Page
-  - [ ] Login Form
-  - [ ] Register Form
+  - [X] Login Form
+  - [X] Register Form
   - [ ] Search
 
 - [ ] Back End
