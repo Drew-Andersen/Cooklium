@@ -51,7 +51,7 @@ export default function Login() {
                         <div className="text-center">
                             <p className="text-center mb-0 mt-3">Don&apos;t have an account?</p>
                             <Link to='/register' className="btn btn-primary w-100 rounded text-decoration-none">
-                                Sign-up
+                                Register
                             </Link>
                         </div>
                     </Form>

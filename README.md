@@ -122,6 +122,8 @@ Cooklium is ideal for busy home cooks, food enthusiasts, and anyone looking to e
 #### Future Development
 
 - [ ] 404 Page
+- [ ] Grocery List Generation
+- [ ] Meal Planning
 
 ## Contributing
 

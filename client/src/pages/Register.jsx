@@ -57,7 +57,7 @@ export default function Signup() {
                             type="submit" 
                             variant="success"
                             className="btn btn-success w-100 rounded">
-                            Sign-up
+                            Register
                         </Button>
                         <div>
                             <p className="text-center mb-0 mt-3">Already have an account?</p>
