@@ -34,8 +34,7 @@
 }
 
 .card {
-  padding: 2em;
-  /* background-color: transparent; */
+  width: 333%;
 }
 
 .read-the-docs {

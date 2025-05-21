@@ -1,0 +1,42 @@
+.carousel-container {
+    position: relative;
+  }
+  
+  .carousel-slide-wrapper {
+    overflow: hidden;
+  }
+  
+  .carousel-slide {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-arrow {
+    position: absolute;
+    top: 40%;
+    z-index: 2;
+    transform: translateY(-50%);
+  }
+  
+  .carousel-arrow.left {
+    left: -40px; /* Adjust if needed */
+  }
+  
+  .carousel-arrow.right {
+    right: -40px; /* Adjust if needed */
+  }
+  
+  .carousel-dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+    background-color: #ccc;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .carousel-dot.active {
+    background-color: #007bff;
+  }
