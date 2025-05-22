@@ -2,12 +2,10 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 
 export default function RecipeDetail() {
-    const { id } = useParams(); // Get the recipe ID from the URL
+    const { id } = useParams();
   const [recipe, setRecipe] = useState(null);
 
   useEffect(() => {
-    // Fetch recipe details from your backend using the id
-    // For now, you can mock the data like we did earlier
     const mockRecipe = {
       _id: id,
       title: 'Spaghetti Bolognese',

@@ -80,7 +80,7 @@ export default function Home() {
         </header>
 
         <section className="search-bar">
-          {/* Include your Search component or input here */}
+          {/* Search component */}
         </section>
 
         <FeaturedRecipesCarousel recipes={recipes} />
